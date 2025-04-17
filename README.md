@@ -1,1 +1,1 @@
-# Snake-Game
+# Snake-Game Python GUI
